@@ -14,6 +14,14 @@
 using namespace std;
 int main(int argc, char **argv) {
 	cout << "测试 string\r\n";
+	cout << "测试 string\r\n";
+	cout << "测试 string\r\n";
+	cout << "测试 string\r\n";
+	cout << "测试 string\r\n";
+	cout << "测试 string\r\n";
+	cout << "测试 string\r\n";
+	cout << "测试 string\r\n";
+	cout << "测试 string\r\n";
     
 	getch();
 }
