@@ -13,6 +13,11 @@
 
 using namespace std;
 int main(int argc, char **argv) {
+
+	system("COLOR 0E");
+	system("mode con cols=90 lines=30");
+
+    
 	cout << "测试 string\r\n";
 	cout << "测试 string\r\n";
 	cout << "测试 string\r\n";
